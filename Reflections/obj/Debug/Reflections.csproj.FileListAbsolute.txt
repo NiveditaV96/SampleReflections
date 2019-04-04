@@ -1,0 +1,6 @@
+D:\DotNetProjects\Reflections\Reflections\bin\Debug\Reflections.exe.config
+D:\DotNetProjects\Reflections\Reflections\bin\Debug\Reflections.exe
+D:\DotNetProjects\Reflections\Reflections\bin\Debug\Reflections.pdb
+D:\DotNetProjects\Reflections\Reflections\obj\Debug\Reflections.csprojResolveAssemblyReference.cache
+D:\DotNetProjects\Reflections\Reflections\obj\Debug\Reflections.exe
+D:\DotNetProjects\Reflections\Reflections\obj\Debug\Reflections.pdb
